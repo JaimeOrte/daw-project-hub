@@ -75,4 +75,4 @@ Para visualizar la página web en tu entorno local:
 - **Relación entre `pull`, `fetch` y la integración posterior:** La fórmula fundamental de Git es:  
   `git pull = git fetch + git merge` (o `git rebase`).
 
-  ## Propuesta de cambio
+  ## Propuesta de cambios
