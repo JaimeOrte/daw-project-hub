@@ -76,3 +76,5 @@ Para visualizar la página web en tu entorno local:
   `git pull = git fetch + git merge` (o `git rebase`).
 
   ## Propuesta de cambios
+  Necesito hacer unos cambios para hacer el paso 18
+  Simplemente agrege un comentario para la tarea anterior y ahora este para la actual
